@@ -1,0 +1,16 @@
+asset,screen_or_module,purpose,notes
+gm_home_hero,Home,Hero/banner decoration,Decorative only; local WebP
+gm_module_demu_hat,Module 01 Đệm hát,Module tile and header,Decorative guitar photography
+gm_module_luyen_ngon,Module 02 Luyện ngón,Module tile and header,Decorative fretboard hand photo
+gm_module_fingerstyle,Module 03 Fingerstyle,Module tile and header,Decorative fingerpicking photo
+gm_module_nhac_ly,Module 04 Nhạc lý,Module tile and header,Music theory visual
+gm_module_cam_am,Module 05 Cảm âm,Module tile and header,Listening/ear-training visual
+gm_module_cong_cu,Module 06 Công cụ,Tools tile,Instrument accessories visual
+gm_lesson_chord_basics,Chord lesson,Lesson visual,Do not treat as exact chord diagram
+gm_lesson_chord_transition,Transition lesson,Lesson visual,Do not treat as exact fingering instruction
+gm_lesson_strumming_practice,Strumming lesson,Lesson visual,Decorative practice photo
+gm_lesson_finger_exercise,Finger exercise,Lesson visual,Decorative hand photo
+gm_lesson_fingerpicking,Fingerstyle lesson,Lesson visual,Decorative hand photo
+gm_lesson_music_theory,Music theory lesson,Lesson visual,Decorative sheet music photo
+gm_lesson_ear_training,Ear training lesson,Lesson visual,Decorative listening photo
+gm_lesson_tuning_metronome,Tools lesson,Lesson visual,Decorative tuning/metronome photo

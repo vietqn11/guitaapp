@@ -1,0 +1,4 @@
+GUITAR MASTER 2.0 UI PROTOTYPE v1.4 – CONTENT V4
+UI: preserved from v1.3.
+Content: 225 core lessons (5 learning modules x 45 lessons).
+No native Android audio-evaluation engine is included in this prototype.

@@ -1,0 +1,226 @@
+﻿module_id,module_name,level,lesson_id,lesson_title,content_type,objective
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L01,Nhận biết 6 dây và các bộ phận guitar,Core Lesson,"Nhận biết dây 6→1, khóa đàn, cần đàn, phím và ngựa đàn."
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L02,Cầm đàn và đặt hai tay thoải mái,Core Lesson,"Thiết lập tư thế ngồi, góc cần đàn, cổ tay trái và vị trí tay phải."
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L03,Lên dây và tạo âm thanh sạch,Core Lesson,Làm quen chuẩn dây E-A-D-G-B-E và kiểm tra từng dây.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L04,"Bấm Em, Am, E và A",Core Lesson,Đặt ngón theo sơ đồ và hiểu dây nào cần gảy/bỏ qua.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L05,"Làm quen C, G, D và Dm",Core Lesson,Học nhóm hợp âm mở thường dùng trong bài hát cơ bản.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L06,Sửa lỗi hợp âm rè và tịt dây,Core Lesson,"Tìm nguyên nhân: chạm dây bên cạnh, đặt xa phím, lực/ góc tay chưa phù hợp."
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L07,Chuyển giữa hai hợp âm,Core Lesson,"Tập cặp Em-Am, C-G hoặc G-D ở tốc độ chậm."
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L08,Tận dụng ngón chung và điểm neo,Core Lesson,Nhận ra ngón giữ nguyên/di chuyển ít trong một số cặp hợp âm.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L09,Quạt chả xuống – lên theo nhịp 4/4,Core Lesson,Đếm 1-2-3-4 và phối hợp hướng gảy xuống/lên.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L10,Chơi điệu Ballad cơ bản,Core Lesson,Kết hợp mẫu quạt đơn giản với vòng hợp âm ở nhịp chậm.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L11,Đọc vòng hợp âm và điểm đổi hợp âm,Core Lesson,Theo dõi hợp âm trên dòng lời/ký hiệu và đổi đúng vị trí.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L12,Thử thách: tự đệm một bài đơn giản,Core Lesson,"Ghép hợp âm, nhịp, đoạn intro/verse/chorus và giọng hát ở mức phù hợp."
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L13,Nhóm hợp âm Dm – A7 – E7 trong bài đệm,Core Lesson,Phát triển kỹ năng nhóm hợp âm dm – a7 – e7 trong bài đệm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L14,Đổi hợp âm theo nhịp 2/4 và 3/4,Core Lesson,Phát triển kỹ năng đổi hợp âm theo nhịp 2/4 và 3/4 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Foundation – Xây nền tảng,M01-L15,Đệm một vòng hợp âm không dừng,Core Lesson,Phát triển kỹ năng đệm một vòng hợp âm không dừng và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L16,Nhịp 2/4 và điệu March cơ bản,Core Lesson,Phát triển kỹ năng nhịp 2/4 và điệu march cơ bản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L17,Nhịp 3/4 và điệu Waltz,Core Lesson,Phát triển kỹ năng nhịp 3/4 và điệu waltz và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L18,Điệu Slow Rock xuống – xuống lên,Core Lesson,Phát triển kỹ năng điệu slow rock xuống – xuống lên và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L19,Điệu Pop cơ bản và điểm nhấn,Core Lesson,Phát triển kỹ năng điệu pop cơ bản và điểm nhấn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L20,Điệu Bolero nhập môn: chia phách và nhấn,Core Lesson,Phát triển kỹ năng điệu bolero nhập môn: chia phách và nhấn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L21,Kỹ thuật chặn dây khi quạt,Core Lesson,Phát triển kỹ năng kỹ thuật chặn dây khi quạt và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L22,Quạt rải kết hợp quạt chả,Core Lesson,Phát triển kỹ năng quạt rải kết hợp quạt chả và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L23,Giữ nhịp khi đổi hợp âm giữa ô nhịp,Core Lesson,Phát triển kỹ năng giữ nhịp khi đổi hợp âm giữa ô nhịp và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L24,Luyện chuyển hợp âm theo vòng C–G–Am–F,Core Lesson,Phát triển kỹ năng luyện chuyển hợp âm theo vòng c–g–am–f và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L25,Luyện vòng G–D–Em–C,Core Lesson,Phát triển kỹ năng luyện vòng g–d–em–c và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L26,Đệm với capo và chọn tone dễ hát,Core Lesson,Phát triển kỹ năng đệm với capo và chọn tone dễ hát và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L27,Đọc hợp âm trên lời bài hát,Core Lesson,Phát triển kỹ năng đọc hợp âm trên lời bài hát và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L28,Tạo intro và kết bài đơn giản,Core Lesson,Phát triển kỹ năng tạo intro và kết bài đơn giản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L29,Đệm nhẹ – mạnh theo cấu trúc bài,Core Lesson,Phát triển kỹ năng đệm nhẹ – mạnh theo cấu trúc bài và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Development – Phát triển kỹ năng,M01-L30,Chọn điệu đệm theo phong cách bài hát,Core Lesson,Phát triển kỹ năng chọn điệu đệm theo phong cách bài hát và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L31,Đệm bài ở tempo chậm rồi tăng dần,Core Lesson,Phát triển kỹ năng đệm bài ở tempo chậm rồi tăng dần và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L32,Giữ nhịp khi bỏ lỡ một lần chuyển hợp âm,Core Lesson,Phát triển kỹ năng giữ nhịp khi bỏ lỡ một lần chuyển hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L33,Đệm có khoảng nghỉ và nhịp lấy đà,Core Lesson,Phát triển kỹ năng đệm có khoảng nghỉ và nhịp lấy đà và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L34,Phối hợp bass đơn với hợp âm,Core Lesson,Phát triển kỹ năng phối hợp bass đơn với hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L35,Đệm bài có Verse và Chorus tương phản,Core Lesson,Phát triển kỹ năng đệm bài có verse và chorus tương phản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L36,Tự xác định vị trí đổi hợp âm khi nghe mẫu,Core Lesson,Phát triển kỹ năng tự xác định vị trí đổi hợp âm khi nghe mẫu và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L37,Chuyển tone bài hát bằng capo,Core Lesson,Phát triển kỹ năng chuyển tone bài hát bằng capo và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L38,Xây dựng bản đệm tối giản cho ca khúc,Core Lesson,Phát triển kỹ năng xây dựng bản đệm tối giản cho ca khúc và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L39,Tự chọn vòng hợp âm phù hợp giọng hát,Core Lesson,Phát triển kỹ năng tự chọn vòng hợp âm phù hợp giọng hát và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L40,Thu âm và tự đánh giá phần đệm,Core Lesson,Phát triển kỹ năng thu âm và tự đánh giá phần đệm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L41,Song Project: Đệm trọn bài Pop 4/4,Core Lesson,Phát triển kỹ năng song project: đệm trọn bài pop 4/4 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L42,Song Project: Đệm trọn bài Ballad,Core Lesson,Phát triển kỹ năng song project: đệm trọn bài ballad và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L43,"Song Project: Tự chọn tone, điệu và trình bày bài hát",Core Lesson,"Phát triển kỹ năng song project: tự chọn tone, điệu và trình bày bài hát và biết áp dụng trong ngữ cảnh chơi guitar thực tế."
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L44,Đệm bài có nhịp lấy đà và kết câu,Core Lesson,Tạo phần vào bài và kết thúc rõ ràng mà không mất nhịp.
+M01,Đệm hát,Mastery – Thành thạo và ứng dụng,M01-L45,"Tự phối hợp hợp âm, điệu đệm và sắc thái",Core Lesson,"Tự chọn hợp âm, tiết điệu và cường độ cho một bài ngắn."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L01,Đặt ngón trái đúng vị trí,Core Lesson,"Làm quen số ngón 1–4, độ cong ngón và vị trí gần thanh phím."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L02,Bài 1-2-3-4 trên một dây,Core Lesson,Luyện tuần tự bốn ngón trên một dây ở vị trí dễ.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L03,Di chuyển 1-2-3-4 qua các dây,Core Lesson,"Chuyển mẫu giữa các dây, giữ ngón gần cần đàn."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L04,Gảy luân phiên xuống – lên,Core Lesson,Tập alternate picking bằng phím hoặc ngón tùy bài.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L05,Kiểm soát từng dây,Core Lesson,"Luyện đổi dây chính xác, hạn chế chạm dây không mong muốn."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L06,Độc lập ngón và giảm lực thừa,Core Lesson,Luyện nhấc/đặt ngón có kiểm soát và nhận biết lực vừa đủ.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L07,Đồng bộ tay trái và tay phải,Core Lesson,Bấm nốt đúng thời điểm gảy.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L08,Nhảy dây và đổi vị trí,Core Lesson,Kết hợp di chuyển giữa dây và phím.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L09,Luyện với Metronome,Core Lesson,"Bắt đầu ở BPM dễ, tăng theo bậc nhỏ."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L10,Tăng tốc theo bậc,Core Lesson,Dùng tốc độ thấp–vừa–cao có kiểm soát.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L11,Thả lỏng và xử lý mỏi tay,Core Lesson,"Nhận biết vai/cổ tay căng, nghỉ ngắn và điều chỉnh tư thế."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L12,Thử thách phối hợp và tốc độ,Core Lesson,"Ghép chuỗi ngón, đổi dây và Metronome."
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L13,Định vị nốt ở 5 phím đầu,Core Lesson,Phát triển kỹ năng định vị nốt ở 5 phím đầu và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L14,Bài tập 1-3-2-4 và 1-4-2-3,Core Lesson,Phát triển kỹ năng bài tập 1-3-2-4 và 1-4-2-3 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Foundation – Xây nền tảng,M02-L15,Giữ ngón không chơi gần mặt cần,Core Lesson,Phát triển kỹ năng giữ ngón không chơi gần mặt cần và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L16,Bài tập chromatic 1-2-3-4 qua 6 dây,Core Lesson,Phát triển kỹ năng bài tập chromatic 1-2-3-4 qua 6 dây và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L17,Bài tập spider 1-3-2-4,Core Lesson,Phát triển kỹ năng bài tập spider 1-3-2-4 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L18,Đổi dây liền kề không chạm dây ngoài,Core Lesson,Phát triển kỹ năng đổi dây liền kề không chạm dây ngoài và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L19,Nhảy dây có kiểm soát,Core Lesson,Phát triển kỹ năng nhảy dây có kiểm soát và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L20,Legato nhập môn: hammer-on,Core Lesson,Phát triển kỹ năng legato nhập môn: hammer-on và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L21,Legato nhập môn: pull-off,Core Lesson,Phát triển kỹ năng legato nhập môn: pull-off và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L22,Kết hợp hammer-on và pull-off,Core Lesson,Phát triển kỹ năng kết hợp hammer-on và pull-off và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L23,Đổi vị trí tay trái theo cụm 3 phím,Core Lesson,Phát triển kỹ năng đổi vị trí tay trái theo cụm 3 phím và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L24,Luyện ngón với dây buông xen kẽ,Core Lesson,Phát triển kỹ năng luyện ngón với dây buông xen kẽ và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L25,Alternate picking trên một dây,Core Lesson,Phát triển kỹ năng alternate picking trên một dây và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L26,Alternate picking khi đổi dây,Core Lesson,Phát triển kỹ năng alternate picking khi đổi dây và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L27,Kiểm soát tiếng dây thừa bằng tay phải,Core Lesson,Phát triển kỹ năng kiểm soát tiếng dây thừa bằng tay phải và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L28,Phối hợp mute hai tay cơ bản,Core Lesson,Phát triển kỹ năng phối hợp mute hai tay cơ bản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L29,Đồng bộ nốt móc đơn với metronome,Core Lesson,Phát triển kỹ năng đồng bộ nốt móc đơn với metronome và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Development – Phát triển kỹ năng,M02-L30,Đồng bộ nốt móc kép ở tempo chậm,Core Lesson,Phát triển kỹ năng đồng bộ nốt móc kép ở tempo chậm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L31,Chia tốc độ thành các bậc luyện tập,Core Lesson,Phát triển kỹ năng chia tốc độ thành các bậc luyện tập và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L32,Tăng BPM mà không mất độ đều,Core Lesson,Phát triển kỹ năng tăng bpm mà không mất độ đều và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L33,Accent: nhấn phách có chủ đích,Core Lesson,Phát triển kỹ năng accent: nhấn phách có chủ đích và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L34,Luyện lực gảy đồng đều giữa các ngón,Core Lesson,Phát triển kỹ năng luyện lực gảy đồng đều giữa các ngón và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L35,Đổi dây và đổi vị trí trong một câu nhạc,Core Lesson,Phát triển kỹ năng đổi dây và đổi vị trí trong một câu nhạc và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L36,Bài tập phối hợp 4 ô nhịp liên tục,Core Lesson,Phát triển kỹ năng bài tập phối hợp 4 ô nhịp liên tục và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L37,Đọc tab và thực hiện chuỗi ngón,Core Lesson,Phát triển kỹ năng đọc tab và thực hiện chuỗi ngón và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L38,Luyện câu chạy nốt ngắn có nhạc tính,Core Lesson,Phát triển kỹ năng luyện câu chạy nốt ngắn có nhạc tính và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L39,Tự thiết kế bài tập cho ngón yếu,Core Lesson,Phát triển kỹ năng tự thiết kế bài tập cho ngón yếu và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L40,Kiểm tra độ sạch và độ đều bằng thu âm,Core Lesson,Phát triển kỹ năng kiểm tra độ sạch và độ đều bằng thu âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L41,Performance Project: câu chạy nốt 1 dây,Core Lesson,Phát triển kỹ năng performance project: câu chạy nốt 1 dây và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L42,Performance Project: chuỗi 6 dây theo BPM,Core Lesson,Phát triển kỹ năng performance project: chuỗi 6 dây theo bpm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L43,Performance Project: trình diễn etude ngắn,Core Lesson,Phát triển kỹ năng performance project: trình diễn etude ngắn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L44,Luyện chuỗi ngón qua hai vị trí cần đàn,Core Lesson,Duy trì độ sạch khi chuyển vị trí tay trái.
+M02,Luyện ngón,Mastery – Thành thạo và ứng dụng,M02-L45,Etude phối hợp ngón và kiểm soát tiếng dây,Song Project,"Kết hợp đổi dây, đổi vị trí và chặn dây thừa trong câu nhạc."
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L01,Nhận biết P-I-M-A,Core Lesson,"Hiểu P=ngón cái, I=trỏ, M=giữa, A=áp út."
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L02,Ngón cái chơi dây bass,Core Lesson,"Tập ngón cái trên dây 6, 5, 4 theo hợp âm."
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L03,I-M-A chơi dây treble,Core Lesson,Tập ngón trỏ/giữa/áp út trên dây 3/2/1.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L04,Mẫu P-I-M-A,Core Lesson,Ghép bass và ba nốt treble theo thứ tự.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L05,Mẫu P-I-M-I,Core Lesson,Luyện mẫu rải lặp phổ biến cho bài tập nhập môn.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L06,Đổi hợp âm không vỡ mẫu,Core Lesson,Giữ ngón phải ổn định khi tay trái đổi hợp âm.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L07,Bass luân phiên,Core Lesson,Tập đổi dây bass theo gốc hợp âm.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L08,Đưa giai điệu lên dây cao,Core Lesson,Giữ bass đơn giản trong khi chơi giai điệu trên dây treble.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L09,Điều khiển lực và độ ngân,Core Lesson,Tạo âm lượng khác nhau giữa bass và giai điệu.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L10,Đọc tab fingerstyle cơ bản,Core Lesson,Hiểu số trên tab là phím cần bấm và dây tương ứng.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L11,Chơi intro fingerstyle đơn giản,Core Lesson,"Ghép mẫu ngón, bass và một câu giai điệu."
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L12,Thử thách: hoàn thành đoạn fingerstyle,Core Lesson,"Chơi một bản ngắn có bass, treble và chuyển hợp âm."
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L13,Đặt ngón P-I-M-A theo vùng dây,Core Lesson,Phát triển kỹ năng đặt ngón p-i-m-a theo vùng dây và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L14,Giữ bass ổn định khi đổi hợp âm,Core Lesson,Phát triển kỹ năng giữ bass ổn định khi đổi hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Foundation – Xây nền tảng,M03-L15,Mẫu P-M-I-M trên hợp âm mở,Core Lesson,Phát triển kỹ năng mẫu p-m-i-m trên hợp âm mở và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L16,Mẫu P-I-M-A trên Am và C,Core Lesson,Phát triển kỹ năng mẫu p-i-m-a trên am và c và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L17,Mẫu P-I-M-I trên G và Em,Core Lesson,Phát triển kỹ năng mẫu p-i-m-i trên g và em và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L18,Mẫu P-A-M-I và kiểm soát âm lượng,Core Lesson,Phát triển kỹ năng mẫu p-a-m-i và kiểm soát âm lượng và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L19,Bass luân phiên 6–4 và 5–4,Core Lesson,Phát triển kỹ năng bass luân phiên 6–4 và 5–4 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L20,Ghép bass với hai nốt treble,Core Lesson,Phát triển kỹ năng ghép bass với hai nốt treble và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L21,Ghép bass với ba nốt treble,Core Lesson,Phát triển kỹ năng ghép bass với ba nốt treble và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L22,Đổi hợp âm không làm đứt mẫu ngón,Core Lesson,Phát triển kỹ năng đổi hợp âm không làm đứt mẫu ngón và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L23,Giữ giai điệu nổi hơn phần đệm,Core Lesson,Phát triển kỹ năng giữ giai điệu nổi hơn phần đệm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L24,Chơi melody trên dây 1 và 2,Core Lesson,Phát triển kỹ năng chơi melody trên dây 1 và 2 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L25,Bass độc lập với melody đơn giản,Core Lesson,Phát triển kỹ năng bass độc lập với melody đơn giản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L26,Đọc tab Fingerstyle theo từng ô nhịp,Core Lesson,Phát triển kỹ năng đọc tab fingerstyle theo từng ô nhịp và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L27,"Dấu nối, trường độ và nốt ngân trong tab",Core Lesson,"Phát triển kỹ năng dấu nối, trường độ và nốt ngân trong tab và biết áp dụng trong ngữ cảnh chơi guitar thực tế."
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L28,Kỹ thuật nghỉ dây và chặn âm,Core Lesson,Phát triển kỹ năng kỹ thuật nghỉ dây và chặn âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L29,Tạo sắc thái mạnh – nhẹ trong mẫu rải,Core Lesson,Phát triển kỹ năng tạo sắc thái mạnh – nhẹ trong mẫu rải và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Development – Phát triển kỹ năng,M03-L30,Chơi arpeggio có điểm nhấn,Core Lesson,Phát triển kỹ năng chơi arpeggio có điểm nhấn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L31,Phối hợp mẫu ngón với nhịp 3/4,Core Lesson,Phát triển kỹ năng phối hợp mẫu ngón với nhịp 3/4 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L32,Chơi câu nhạc có bass đi xuống,Core Lesson,Phát triển kỹ năng chơi câu nhạc có bass đi xuống và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L33,Chuyển bass giữa các hợp âm,Core Lesson,Phát triển kỹ năng chuyển bass giữa các hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L34,Thêm nốt melody vào vòng hợp âm,Core Lesson,Phát triển kỹ năng thêm nốt melody vào vòng hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L35,Tách một đoạn nhạc thành bass và melody,Core Lesson,Phát triển kỹ năng tách một đoạn nhạc thành bass và melody và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L36,Ghép hai ô nhịp thành một câu hoàn chỉnh,Core Lesson,Phát triển kỹ năng ghép hai ô nhịp thành một câu hoàn chỉnh và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L37,Luyện đoạn khó theo vòng lặp chậm,Core Lesson,Phát triển kỹ năng luyện đoạn khó theo vòng lặp chậm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L38,Tăng tempo mà giữ bass đều,Core Lesson,Phát triển kỹ năng tăng tempo mà giữ bass đều và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L39,Phân tích cấu trúc một bản Fingerstyle,Core Lesson,Phát triển kỹ năng phân tích cấu trúc một bản fingerstyle và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L40,Tự thay đổi mẫu ngón nhưng giữ hòa âm,Core Lesson,Phát triển kỹ năng tự thay đổi mẫu ngón nhưng giữ hòa âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L41,Song Project: Fingerstyle giai điệu đơn,Core Lesson,Phát triển kỹ năng song project: fingerstyle giai điệu đơn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L42,Song Project: Fingerstyle có bass luân phiên,Core Lesson,Phát triển kỹ năng song project: fingerstyle có bass luân phiên và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L43,Song Project: Trình diễn bản Fingerstyle hoàn chỉnh,Core Lesson,Phát triển kỹ năng song project: trình diễn bản fingerstyle hoàn chỉnh và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L44,Fingerstyle với hợp âm đổi ở cuối ô nhịp,Core Lesson,Giữ mẫu bass và melody khi chuyển hợp âm đúng thời điểm.
+M03,Fingerstyle,Mastery – Thành thạo và ứng dụng,M03-L45,Tự hoàn thiện arrangement Fingerstyle ngắn,Song Project,Tạo bản fingerstyle ngắn từ vòng hợp âm quen thuộc.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L01,Tên nốt và dây đàn tiêu chuẩn,Core Lesson,Nhận biết E-A-D-G-B-E và tên nốt cơ bản.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L02,Phím đàn và nửa cung,Core Lesson,Hiểu mỗi phím tăng một nửa cung trên cùng dây.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L03,"Phách, nhịp và trường độ",Core Lesson,"Phân biệt phách, ô nhịp, nốt dài/ngắn và dấu lặng cơ bản."
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L04,Cấu tạo hợp âm trưởng và thứ,Core Lesson,Hiểu công thức ba nốt 1-3-5 và 1-b3-5 ở mức nhập môn.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L05,"Vì sao hợp âm có tên C, Am, G?",Core Lesson,Liên hệ tên hợp âm với nốt gốc và loại hợp âm.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L06,Hợp âm thuộc một giọng,Core Lesson,"Làm quen vai trò I, IV, V, vi bằng ví dụ ở một giọng phổ biến."
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L07,Gam trưởng và công thức cung/nửa cung,Core Lesson,Hiểu mẫu khoảng cách của gam trưởng.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L08,Nhịp 3/4 và 4/4 khác nhau thế nào?,Core Lesson,Phân biệt số phách mỗi ô nhịp và cảm giác nhấn.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L09,Vòng hợp âm phổ biến,Core Lesson,Hiểu I–V–vi–IV và một vài vòng thường gặp theo ví dụ.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L10,Nhận biết tone bài hát,Core Lesson,Hiểu khái niệm giọng/tone và nốt trung tâm ở mức ứng dụng.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L11,Capo thay đổi cao độ thế nào?,Core Lesson,Hiểu capo nâng cao độ toàn bộ dây theo số phím.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L12,Chuyển tone bằng cách đơn giản,Core Lesson,Dịch vòng hợp âm lên/xuống theo số cung hoặc dùng công cụ hỗ trợ.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L13,Đọc tên nốt trên dây 6 và dây 5,Core Lesson,Phát triển kỹ năng đọc tên nốt trên dây 6 và dây 5 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L14,Cung – nửa cung trên cần đàn,Core Lesson,Phát triển kỹ năng cung – nửa cung trên cần đàn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Foundation – Xây nền tảng,M04-L15,"Nhịp, phách và dấu lặng cơ bản",Core Lesson,"Phát triển kỹ năng nhịp, phách và dấu lặng cơ bản và biết áp dụng trong ngữ cảnh chơi guitar thực tế."
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L16,Quy luật nốt trên 6 dây guitar,Core Lesson,Phát triển kỹ năng quy luật nốt trên 6 dây guitar và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L17,Tìm nốt cùng tên ở các vị trí khác nhau,Core Lesson,Phát triển kỹ năng tìm nốt cùng tên ở các vị trí khác nhau và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L18,"Quãng 2, 3, 4 và 5",Core Lesson,"Phát triển kỹ năng quãng 2, 3, 4 và 5 và biết áp dụng trong ngữ cảnh chơi guitar thực tế."
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L19,Quãng 8 và octave trên cần đàn,Core Lesson,Phát triển kỹ năng quãng 8 và octave trên cần đàn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L20,Cấu tạo hợp âm trưởng ba nốt,Core Lesson,Phát triển kỹ năng cấu tạo hợp âm trưởng ba nốt và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L21,Cấu tạo hợp âm thứ ba nốt,Core Lesson,Phát triển kỹ năng cấu tạo hợp âm thứ ba nốt và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L22,"Hợp âm sus2, sus4 và add9 nhập môn",Core Lesson,"Phát triển kỹ năng hợp âm sus2, sus4 và add9 nhập môn và biết áp dụng trong ngữ cảnh chơi guitar thực tế."
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L23,Hợp âm 7 át và cách nghe chức năng,Core Lesson,Phát triển kỹ năng hợp âm 7 át và cách nghe chức năng và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L24,Gam trưởng theo công thức cung,Core Lesson,Phát triển kỹ năng gam trưởng theo công thức cung và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L25,Gam thứ tự nhiên theo công thức,Core Lesson,Phát triển kỹ năng gam thứ tự nhiên theo công thức và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L26,Vòng hợp âm I–V–vi–IV,Core Lesson,Phát triển kỹ năng vòng hợp âm i–v–vi–iv và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L27,Vòng hợp âm I–IV–V,Core Lesson,Phát triển kỹ năng vòng hợp âm i–iv–v và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L28,Chức năng chủ âm – hạ át – át,Core Lesson,Phát triển kỹ năng chức năng chủ âm – hạ át – át và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L29,Nhịp 6/8 và cách đếm,Core Lesson,Phát triển kỹ năng nhịp 6/8 và cách đếm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Development – Phát triển kỹ năng,M04-L30,Đảo phách và dấu nối nhịp,Core Lesson,Phát triển kỹ năng đảo phách và dấu nối nhịp và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L31,Dấu hóa và xác định giọng,Core Lesson,Phát triển kỹ năng dấu hóa và xác định giọng và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L32,Quan hệ giọng trưởng và thứ tương đối,Core Lesson,Phát triển kỹ năng quan hệ giọng trưởng và thứ tương đối và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L33,Dùng capo và chuyển tone bằng tư duy quãng,Core Lesson,Phát triển kỹ năng dùng capo và chuyển tone bằng tư duy quãng và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L34,Xây hợp âm từ nốt gốc trên cần đàn,Core Lesson,Phát triển kỹ năng xây hợp âm từ nốt gốc trên cần đàn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L35,Phân tích vòng hòa âm của bài mẫu,Core Lesson,Phát triển kỹ năng phân tích vòng hòa âm của bài mẫu và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L36,Nhận biết cadence đơn giản,Core Lesson,Phát triển kỹ năng nhận biết cadence đơn giản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L37,Hòa âm hóa giai điệu ngắn,Core Lesson,Phát triển kỹ năng hòa âm hóa giai điệu ngắn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L38,Tạo vòng hợp âm 4 ô nhịp,Core Lesson,Phát triển kỹ năng tạo vòng hợp âm 4 ô nhịp và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L39,Đọc sơ đồ hợp âm và ký hiệu lead sheet,Core Lesson,Phát triển kỹ năng đọc sơ đồ hợp âm và ký hiệu lead sheet và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L40,Ứng dụng gam vào câu melody đơn giản,Core Lesson,Phát triển kỹ năng ứng dụng gam vào câu melody đơn giản và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L41,Phân tích cấu trúc và hòa âm một bài,Core Lesson,Phát triển kỹ năng phân tích cấu trúc và hòa âm một bài và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L42,Project: Tìm tone và vòng hợp âm bài mẫu,Core Lesson,Phát triển kỹ năng project: tìm tone và vòng hợp âm bài mẫu và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L43,Project: Chuyển tone và viết lại hợp âm,Core Lesson,Phát triển kỹ năng project: chuyển tone và viết lại hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L44,Project: Tự xây dựng bản đệm từ kiến thức nhạc lý,Core Lesson,Phát triển kỹ năng project: tự xây dựng bản đệm từ kiến thức nhạc lý và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M04,Nhạc lý,Mastery – Thành thạo và ứng dụng,M04-L45,Project: Viết lead sheet cho bài mẫu,Song Project,"Tổng hợp tone, nhịp, hợp âm và cấu trúc thành lead sheet đơn giản."
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L01,Âm cao và âm thấp,Core Lesson,So sánh hai âm thanh và xác định âm nào cao hơn.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L02,Âm giống nhau hay khác nhau?,Core Lesson,Phân biệt hai âm/mẫu có giống nhau không.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L03,Hát lại một nốt mẫu,Core Lesson,Nghe nốt rồi ngân lại bằng giọng hoặc tìm trên đàn.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L04,Giai điệu đi lên hay đi xuống?,Core Lesson,Nhận biết hướng chuyển động của chuỗi nốt.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L05,Nghe bước nhỏ và bước nhảy,Core Lesson,So sánh chuyển động giai điệu gần/xa.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L06,Nhớ và hát lại câu ngắn,Core Lesson,Lặp lại chuỗi 3–5 nốt.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L07,Nghe nhịp 3/4 và 4/4,Core Lesson,Nhận biết số phách và điểm nhấn trong mẫu nghe.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L08,Phân biệt hợp âm trưởng và thứ,Core Lesson,Nghe hai mẫu hòa âm và nhận ra khác biệt cơ bản.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L09,Nghe bass và điểm đổi hợp âm,Core Lesson,Tập chú ý âm trầm và thời điểm hòa âm thay đổi.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L10,Bắt chước tiết tấu ngắn,Core Lesson,Nghe và gõ lại mẫu tiết tấu.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L11,Tìm nốt chủ bằng cách dò trên đàn,Core Lesson,Nghe câu nhạc rồi dò nốt kết thúc/điểm nghỉ bằng thử nghiệm.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L12,Thử thách nghe vòng hợp âm đơn giản,Core Lesson,Nghe vòng ngắn và chọn số lần đổi/hướng chuyển theo lựa chọn có sẵn.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L13,Phân biệt âm cao và âm thấp chính xác,Core Lesson,Phát triển kỹ năng phân biệt âm cao và âm thấp chính xác và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L14,Nghe lặp lại một nốt đơn,Core Lesson,Phát triển kỹ năng nghe lặp lại một nốt đơn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Foundation – Xây nền tảng,M05-L15,Nhận biết giai điệu đi lên hay đi xuống,Core Lesson,Phát triển kỹ năng nhận biết giai điệu đi lên hay đi xuống và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L16,Nhận diện hai âm giống hay khác,Core Lesson,Phát triển kỹ năng nhận diện hai âm giống hay khác và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L17,Ghi nhớ cao độ sau khoảng nghỉ,Core Lesson,Phát triển kỹ năng ghi nhớ cao độ sau khoảng nghỉ và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L18,So sánh quãng gần và quãng xa,Core Lesson,Phát triển kỹ năng so sánh quãng gần và quãng xa và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L19,Nghe quãng 2 và quãng 3,Core Lesson,Phát triển kỹ năng nghe quãng 2 và quãng 3 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L20,Nghe quãng 4 và quãng 5,Core Lesson,Phát triển kỹ năng nghe quãng 4 và quãng 5 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L21,Tái hiện chuỗi 3 nốt bằng giọng hoặc đàn,Core Lesson,Phát triển kỹ năng tái hiện chuỗi 3 nốt bằng giọng hoặc đàn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L22,Tái hiện chuỗi 4–5 nốt,Core Lesson,Phát triển kỹ năng tái hiện chuỗi 4–5 nốt và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L23,Nhận diện nốt giai điệu kết thúc,Core Lesson,Phát triển kỹ năng nhận diện nốt giai điệu kết thúc và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L24,Nghe nhịp đều và nhịp lệch,Core Lesson,Phát triển kỹ năng nghe nhịp đều và nhịp lệch và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L25,"Phân biệt nốt đen, móc đơn và móc kép bằng nghe",Core Lesson,"Phát triển kỹ năng phân biệt nốt đen, móc đơn và móc kép bằng nghe và biết áp dụng trong ngữ cảnh chơi guitar thực tế."
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L26,Nghe phách mạnh trong ô nhịp,Core Lesson,Phát triển kỹ năng nghe phách mạnh trong ô nhịp và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L27,Nhận diện nhịp 3/4 và 4/4,Core Lesson,Phát triển kỹ năng nhận diện nhịp 3/4 và 4/4 và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L28,Phân biệt hợp âm trưởng và thứ,Core Lesson,Phát triển kỹ năng phân biệt hợp âm trưởng và thứ và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L29,Nghe bass và nốt cao trong hợp âm,Core Lesson,Phát triển kỹ năng nghe bass và nốt cao trong hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Development – Phát triển kỹ năng,M05-L30,Nhận diện hợp âm đổi hay giữ nguyên,Core Lesson,Phát triển kỹ năng nhận diện hợp âm đổi hay giữ nguyên và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L31,Nghe vòng hợp âm 2 hợp âm,Core Lesson,Phát triển kỹ năng nghe vòng hợp âm 2 hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L32,Nghe vòng hợp âm 3–4 hợp âm,Core Lesson,Phát triển kỹ năng nghe vòng hợp âm 3–4 hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L33,Nhận biết điểm kết câu nhạc,Core Lesson,Phát triển kỹ năng nhận biết điểm kết câu nhạc và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L34,Nghe và hát lại một motif ngắn,Core Lesson,Phát triển kỹ năng nghe và hát lại một motif ngắn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L35,Tìm nốt đầu bằng cách dò trên guitar,Core Lesson,Phát triển kỹ năng tìm nốt đầu bằng cách dò trên guitar và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L36,Dò giai điệu từng câu trên một dây,Core Lesson,Phát triển kỹ năng dò giai điệu từng câu trên một dây và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L37,Nghe bass root của vòng hợp âm,Core Lesson,Phát triển kỹ năng nghe bass root của vòng hợp âm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L38,Phân biệt giai điệu và phần đệm,Core Lesson,Phát triển kỹ năng phân biệt giai điệu và phần đệm và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L39,Nghe nhận biết cấu trúc Verse – Chorus,Core Lesson,Phát triển kỹ năng nghe nhận biết cấu trúc verse – chorus và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L40,Chép lại nhịp của câu nhạc ngắn,Core Lesson,Phát triển kỹ năng chép lại nhịp của câu nhạc ngắn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L41,Tự dò một giai điệu đơn giản trên đàn,Core Lesson,Phát triển kỹ năng tự dò một giai điệu đơn giản trên đàn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L42,Project: Dò melody 4 ô nhịp,Core Lesson,Phát triển kỹ năng project: dò melody 4 ô nhịp và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L43,Project: Nhận diện vòng hợp âm bằng tai,Core Lesson,Phát triển kỹ năng project: nhận diện vòng hợp âm bằng tai và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L44,Project: Nghe và tái hiện đoạn nhạc ngắn,Core Lesson,Phát triển kỹ năng project: nghe và tái hiện đoạn nhạc ngắn và biết áp dụng trong ngữ cảnh chơi guitar thực tế.
+M05,Cảm âm,Mastery – Thành thạo và ứng dụng,M05-L45,"Project: Nghe, phân tích và tái hiện đoạn nhạc",Song Project,"Kết hợp nhận diện nhịp, melody và vòng hòa âm trong một đoạn mẫu."

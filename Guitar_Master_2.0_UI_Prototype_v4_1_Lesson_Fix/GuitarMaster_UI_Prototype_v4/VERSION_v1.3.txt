@@ -1,0 +1,4 @@
+GUITAR MASTER 2.0 UI PROTOTYPE v1.3
+Base: v1.2 Smart Practice & Music UI
+Added: Performance Evaluation UX and Performance Evaluation Blueprint
+Not included: native Android source, real guitar audio recognition, real performance scoring.

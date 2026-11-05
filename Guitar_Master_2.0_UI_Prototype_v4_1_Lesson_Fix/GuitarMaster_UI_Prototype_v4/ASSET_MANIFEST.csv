@@ -1,0 +1,16 @@
+resource,asset_path,usage
+gm_home_hero,assets/images/gm_home_hero.webp,Home hero image
+gm_module_demu_hat,assets/images/gm_module_demu_hat.webp,Module card and header for Đệm hát
+gm_module_luyen_ngon,assets/images/gm_module_luyen_ngon.webp,Module card and header for Luyện ngón
+gm_module_fingerstyle,assets/images/gm_module_fingerstyle.webp,Module card and header for Fingerstyle
+gm_module_nhac_ly,assets/images/gm_module_nhac_ly.webp,Module card and header for Nhạc lý
+gm_module_cam_am,assets/images/gm_module_cam_am.webp,Module card and header for Cảm âm
+gm_module_cong_cu,assets/images/gm_module_cong_cu.webp,Tools module card
+gm_lesson_chord_basics,assets/images/gm_lesson_chord_basics.webp,Chord lesson illustration
+gm_lesson_chord_transition,assets/images/gm_lesson_chord_transition.webp,Chord-transition lesson illustration
+gm_lesson_strumming_practice,assets/images/gm_lesson_strumming_practice.webp,Strumming and rhythm illustration
+gm_lesson_finger_exercise,assets/images/gm_lesson_finger_exercise.webp,Finger exercise illustration
+gm_lesson_fingerpicking,assets/images/gm_lesson_fingerpicking.webp,Fingerstyle illustration
+gm_lesson_music_theory,assets/images/gm_lesson_music_theory.webp,Music theory illustration
+gm_lesson_ear_training,assets/images/gm_lesson_ear_training.webp,Ear training illustration
+gm_lesson_tuning_metronome,assets/images/gm_lesson_tuning_metronome.webp,Tuner and metronome illustration

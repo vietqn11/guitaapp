@@ -1,0 +1,629 @@
+{
+  "version": "1.0",
+  "game_engines": [
+    [
+      "E1 – Memory / Recall",
+      "Xem một chuỗi trong vài giây, ẩn đi rồi nhớ và lặp lại. Dùng cho nhớ dây, chuỗi ngón, mẫu P-I-M-A, tiết tấu."
+    ],
+    [
+      "E2 – Tap / Match / Find",
+      "Chạm đáp án, ghép tên với hình, tìm vị trí trên cần đàn hoặc phát hiện lỗi. Dùng cho dây, nốt, hợp âm, tư thế."
+    ],
+    [
+      "E3 – Sequence Builder",
+      "Kéo thả hoặc chạm để xếp thứ tự mũi tên, ngón tay, vòng hợp âm hoặc cấu trúc bài hát."
+    ],
+    [
+      "E4 – Rhythm Tap",
+      "Nghe metronome và chạm đúng nhịp. Chỉ chấm độ lệch của thao tác chạm, không chấm tiếng đàn."
+    ],
+    [
+      "E5 – Audio Listening",
+      "Nghe audio mẫu được đóng gói offline rồi chọn cao độ, trưởng/thứ hoặc vòng hợp âm."
+    ],
+    [
+      "E6 – Guided Practice",
+      "Ứng dụng đưa bài tập thật; người học cầm đàn thực hiện và bấm xác nhận lượt tập. Ghi số vòng, thời gian, BPM tự chọn; không giả lập nhận diện đàn."
+    ]
+  ],
+  "games": [
+    {
+      "id": "GM01",
+      "name": "Nhớ 6 dây đàn",
+      "engine": "Memory + Tap Choice",
+      "modules": [
+        "Đệm hát",
+        "Luyện ngón",
+        "Nhạc lý",
+        "Công cụ"
+      ],
+      "goal": "Nhớ thứ tự 6 dây guitar ở cách lên dây tiêu chuẩn, từ dây dày nhất đến dây mỏng nhất.",
+      "how": "Màn hình hiện hình cần đàn với 6 dây đánh số 6 → 1 và tên nốt E-A-D-G-B-E. Người chơi có 5 giây quan sát. Nhãn bị ẩn; người chơi chạm từng dây theo câu hỏi “Dây số 5 là nốt gì?” hoặc kéo thẻ tên nốt vào đúng dây. Vòng nâng cao đảo chiều: hiện nốt và chọn số dây.",
+      "round": "8 câu/vòng; 2 vòng. Vòng 1 có gợi ý, vòng 2 ẩn gợi ý.",
+      "scoring": "10 điểm/câu đúng lần đầu; sai thì hiện đáp án và giải thích. Không phạt XP.",
+      "pass": "Đúng ít nhất 7/8 câu ở vòng cuối.",
+      "feedback": "Hiện tên tiếng Việt và ký hiệu quốc tế: dây 6 Mi trầm (E), 5 La (A), 4 Rê (D), 3 Sol (G), 2 Si (B), 1 Mi cao (E).",
+      "assets": "Ảnh/đồ họa cần đàn 6 dây; bộ nhãn E-A-D-G-B-E; không cần audio.",
+      "notes": "Luôn ghi rõ hướng 6→1 (dày/thấp đến mỏng/cao); tránh lật hình làm người học nhầm thứ tự."
+    },
+    {
+      "id": "GM02",
+      "name": "Phản xạ gọi tên dây",
+      "engine": "Rapid Tap Choice",
+      "modules": [
+        "Đệm hát",
+        "Luyện ngón",
+        "Nhạc lý"
+      ],
+      "goal": "Nhận ra nhanh số dây hoặc tên nốt dây đàn.",
+      "how": "Một câu hỏi lớn xuất hiện ở giữa màn hình: “Dây 2?” hoặc “Nốt B?”. Bên dưới là 6 nút dây/6 tên nốt. Người chơi chạm đáp án đúng trước khi hết 5 giây. Sau mỗi câu, hình cần đàn sáng dây đúng.",
+      "round": "10 câu; thời gian mặc định 5 giây/câu; người mới có thể tắt đồng hồ.",
+      "scoring": "10 điểm câu đúng; thưởng tốc độ tối đa 2 điểm nhưng không ảnh hưởng điều kiện hoàn thành.",
+      "pass": "Đúng ít nhất 8/10 câu.",
+      "feedback": "Sai thì tô sáng đáp án và cho nghe tên nốt bằng giọng đọc tùy chọn.",
+      "assets": "Nút dây 1–6, sơ đồ cần đàn, hiệu ứng sáng dây.",
+      "notes": "Đây là game phản xạ nhận biết, không yêu cầu cầm đàn."
+    },
+    {
+      "id": "GM03",
+      "name": "Săn nốt trên cần đàn",
+      "engine": "Grid Hunt",
+      "modules": [
+        "Luyện ngón",
+        "Nhạc lý"
+      ],
+      "goal": "Định vị nốt trên các dây và phím đầu cần.",
+      "how": "Hiện câu hỏi “Tìm nốt A trên dây 5” hoặc “Dây 6, phím 3 là nốt gì?”. Người chơi chạm ô trên lưới dây-phím. Phạm vi đầu tiên chỉ dùng phím 0–5; sau khi đạt sẽ mở rộng.",
+      "round": "8 câu/vòng; phạm vi dây/phím được ghi rõ trước khi chơi.",
+      "scoring": "10 điểm nếu đúng ô; khi sai, hiển thị đường đi từ dây/phím đến tên nốt.",
+      "pass": "Đúng 6/8 ở cấp hiện tại.",
+      "feedback": "Hiển thị công thức nửa cung theo từng phím; không sinh câu hỏi ngoài bộ dữ liệu nốt đã kiểm chứng.",
+      "assets": "Fretboard vector 6 dây × 6 phím; chấm vị trí; bảng note mapping.",
+      "notes": "Cần kiểm chứng dữ liệu nốt guitar chuẩn trước khi tạo câu hỏi tự động."
+    },
+    {
+      "id": "GM04",
+      "name": "Ghép hình hợp âm",
+      "engine": "Visual Match",
+      "modules": [
+        "Đệm hát",
+        "Nhạc lý"
+      ],
+      "goal": "Nhìn sơ đồ và nhận biết tên hợp âm.",
+      "how": "Một sơ đồ hợp âm xuất hiện; người chơi chọn tên trong 4 đáp án. Vòng tiếp theo đảo chiều: tên hợp âm xuất hiện, người chơi chọn sơ đồ đúng.",
+      "round": "10 câu; bắt đầu với Em, Am, C, G, D, Dm, E, A.",
+      "scoring": "10 điểm/câu đúng; có gợi ý “nhìn vị trí ngón bass hoặc hình dáng”.",
+      "pass": "Đúng ít nhất 8/10.",
+      "feedback": "Sau đáp án, hiển thị sơ đồ lớn, số ngón, dây không đánh (x) và dây buông (o).",
+      "assets": "Chord diagrams chuẩn đã được kiểm duyệt; không dùng ảnh AI vẽ sơ đồ ngón.",
+      "notes": "Dữ liệu sơ đồ hợp âm phải là dữ liệu chuẩn riêng, không tự suy diễn bằng ảnh."
+    },
+    {
+      "id": "GM05",
+      "name": "Xây hợp âm đúng",
+      "engine": "Tap-to-Build Diagram",
+      "modules": [
+        "Đệm hát",
+        "Nhạc lý"
+      ],
+      "goal": "Hiểu vị trí đặt ngón và phân biệt dây buông/dây không đánh.",
+      "how": "Tên hợp âm được đưa ra. Người chơi chạm các ô trên lưới cần đàn để đặt ngón 1, 2, 3; chọn dây buông hoặc dây không đánh khi được yêu cầu. Có thể kéo số ngón vào vị trí.",
+      "round": "1 hợp âm/lượt; 3–5 hợp âm theo chặng.",
+      "scoring": "Chấm vị trí ngón, trạng thái dây buông/dây không đánh và cấu hình tổng thể.",
+      "pass": "Hoàn thành đúng 3 hợp âm được giao.",
+      "feedback": "Tô màu vị trí sai; mở sơ đồ chuẩn và giải thích ngón nào cần đổi.",
+      "assets": "Fretboard interactive; dữ liệu chord shape chuẩn.",
+      "notes": "Phiên bản đầu chỉ chấm sơ đồ chạm; không khẳng định người học bấm đàn thật đúng."
+    },
+    {
+      "id": "GM06",
+      "name": "Thám tử hợp âm lỗi",
+      "engine": "Find the Mistake",
+      "modules": [
+        "Đệm hát",
+        "Luyện ngón"
+      ],
+      "goal": "Nhận biết lỗi thường gặp khiến hợp âm rè hoặc tịt dây.",
+      "how": "Hiện sơ đồ hoặc ảnh bàn tay minh họa có một lỗi chủ đích: ngón chạm dây cạnh, đặt xa phím, sai ngón hoặc nhầm dây buông. Người chơi chạm vào vị trí sai rồi chọn cách sửa.",
+      "round": "5 tình huống; mỗi tình huống có 2 bước: tìm lỗi, chọn cách sửa.",
+      "scoring": "10 điểm tìm đúng lỗi + 10 điểm chọn cách sửa đúng.",
+      "pass": "Đạt 70/100.",
+      "feedback": "Giải thích bằng câu ngắn và hình trước/sau. Không dùng ảnh lỗi gây hiểu sai kỹ thuật.",
+      "assets": "Ảnh/video bàn tay đúng và sai đã được người có chuyên môn kiểm tra.",
+      "notes": "Nội dung lỗi phải được biên tập chính xác; không gán một nguyên nhân duy nhất cho mọi tiếng rè."
+    },
+    {
+      "id": "GM07",
+      "name": "Chuyển hợp âm tốc độ",
+      "engine": "Guided Practice + Timer",
+      "modules": [
+        "Đệm hát",
+        "Luyện ngón"
+      ],
+      "goal": "Luyện chuyển giữa các cặp hợp âm, giảm thời gian dừng tay.",
+      "how": "Màn hình hiển thị cặp hợp âm, ví dụ Em → Am. Người học xem sơ đồ, cầm đàn thực hiện 5 lần rồi bấm “Đã tập xong một lượt”. Có chế độ metronome để giữ nhịp. Game không tự nhận biết tiếng đàn trong bản đầu.",
+      "round": "3 cặp hợp âm × 5 lần chuyển; chọn nhịp chậm trước, tăng dần nếu thoải mái.",
+      "scoring": "Ghi số lượt tự xác nhận, thời gian và BPM đã chọn. Không chấm độ chính xác vật lý.",
+      "pass": "Hoàn thành đủ số lượt thực hành và tự đánh dấu đã kiểm tra âm thanh từng hợp âm.",
+      "feedback": "Gợi ý ngón neo/ngón chung nếu phù hợp với cặp hợp âm; nhắc giảm tốc độ khi bị khựng.",
+      "assets": "Sơ đồ cặp hợp âm, animation chuyển vị trí ngón, metronome.",
+      "notes": "Không hiển thị % chính xác giả. Chỉ ghi nhận lượt tập tự xác nhận."
+    },
+    {
+      "id": "GM08",
+      "name": "Xếp điệu đệm",
+      "engine": "Sequence Builder",
+      "modules": [
+        "Đệm hát"
+      ],
+      "goal": "Hiểu và sắp xếp chuỗi hướng quạt xuống/lên theo nhịp.",
+      "how": "Màn hình có các ô phách và thẻ mũi tên ↓, ↑, nghỉ. Người chơi kéo hoặc chạm thẻ vào ô để tạo mẫu. Bấm “Nghe mẫu” để phát nhịp minh họa, sau đó tự đánh trên đàn.",
+      "round": "Tạo 1 mẫu 4/4 hoặc 3/4; mẫu khó có móc nối và phách nghỉ.",
+      "scoring": "Chấm cấu trúc mẫu theo đáp án của bài; phần chơi đàn thật được ghi là tự luyện, không tự chấm.",
+      "pass": "Xếp đúng mẫu và hoàn thành một lượt tự luyện.",
+      "feedback": "Làm sáng từng phách; phát mẫu chậm rồi đúng tốc độ.",
+      "assets": "Thẻ mũi tên down/up/rest; timeline phách; audio mẫu nội bộ.",
+      "notes": "Các mẫu điệu cụ thể phải được người biên soạn guitar kiểm tra trước khi đưa vào catalog."
+    },
+    {
+      "id": "GM09",
+      "name": "Gõ đúng nhịp",
+      "engine": "Rhythm Tap",
+      "modules": [
+        "Đệm hát",
+        "Fingerstyle",
+        "Luyện ngón"
+      ],
+      "goal": "Cảm nhận phách và giữ nhịp ổn định.",
+      "how": "Metronome phát 4 hoặc 8 phách. Người chơi chạm nút lớn đúng theo tiếng click. Sau lượt chơi, màn hình hiển thị các lần chạm sớm/đúng/trễ.",
+      "round": "2 lượt × 8 phách; BPM khởi đầu 60–80, tăng theo cấp.",
+      "scoring": "Độ lệch thời gian của thao tác chạm: ≤80 ms Perfect; 81–150 ms Good; >150 ms Miss. Ngưỡng cần cho phép hiệu chỉnh/điều chỉnh theo thiết bị.",
+      "pass": "Ít nhất 70% lượt chạm ở mức Good hoặc Perfect.",
+      "feedback": "Hiện timeline phách và vị trí chạm; cho chơi lại ở BPM thấp hơn.",
+      "assets": "Metronome audio local hoặc Web Audio; vòng nhịp; nút tap lớn.",
+      "notes": "Chỉ chấm thao tác chạm theo nhịp, không tuyên bố đã chấm tiếng đàn guitar."
+    },
+    {
+      "id": "GM10",
+      "name": "Ghi nhớ tiết tấu",
+      "engine": "Listen/Watch + Repeat Sequence",
+      "modules": [
+        "Đệm hát",
+        "Fingerstyle"
+      ],
+      "goal": "Nhớ và lặp lại một chuỗi tiết tấu ngắn.",
+      "how": "Ứng dụng phát hoặc nhấp nháy chuỗi 4–8 nhịp gồm xuống, lên, nghỉ và nhấn. Chuỗi biến mất; người chơi chạm các nút theo đúng thứ tự hoặc sắp xếp thẻ.",
+      "round": "3 vòng; mỗi vòng tăng thêm 1–2 nhịp.",
+      "scoring": "Chấm đúng thứ tự và vị trí nghỉ/nhấn; không chấm tiếng đàn thật.",
+      "pass": "Đúng chuỗi ở cấp 2 hoặc 3 tùy bài.",
+      "feedback": "Phát lại chuỗi chậm, tô sáng bước sai và giải thích nhịp bị thiếu.",
+      "assets": "Các clip/nhịp mẫu local; nút xuống/lên/nghỉ/nhấn.",
+      "notes": "Bộ audio phải được đóng gói offline; có tùy chọn tắt âm thanh và dùng animation."
+    },
+    {
+      "id": "GM11",
+      "name": "Gym ngón 1-2-3-4",
+      "engine": "Sequence Memory + Guided Practice",
+      "modules": [
+        "Luyện ngón"
+      ],
+      "goal": "Nhớ thứ tự ngón và thực hiện bài khởi động 1-2-3-4.",
+      "how": "Hiện sơ đồ 4 phím liền nhau với số ngón 1-2-3-4. Người chơi ghi nhớ thứ tự, sau đó chạm các ô trên hình cần đàn theo chuỗi. Cuối cùng cầm đàn tập mẫu theo metronome và tự xác nhận số vòng.",
+      "round": "3 lượt: học thứ tự, lặp không gợi ý, tự luyện 4 vòng.",
+      "scoring": "Chấm chuỗi chạm trên màn hình; lưu số vòng thực hành và BPM tự chọn riêng.",
+      "pass": "Đúng chuỗi chạm và hoàn thành 4 vòng tự luyện.",
+      "feedback": "Báo ngón nào sai thứ tự; nhắc giữ lực vừa đủ, không ép đau tay.",
+      "assets": "Fretboard 4 phím × 1 dây hoặc mẫu di chuyển qua dây; số ngón 1–4.",
+      "notes": "Phải cho phép chọn vùng phím phù hợp và dừng khi đau/mỏi bất thường."
+    },
+    {
+      "id": "GM12",
+      "name": "Đường chạy độc lập ngón",
+      "engine": "Pattern Recall",
+      "modules": [
+        "Luyện ngón"
+      ],
+      "goal": "Luyện độc lập ngón qua các chuỗi 1-3-2-4, 1-4-2-3.",
+      "how": "Game phát sáng các số ngón theo chuỗi. Người chơi nhắc lại bằng cách chạm thứ tự; sau đó thực hiện chuỗi trên đàn theo tốc độ chậm.",
+      "round": "3–5 chuỗi, mỗi chuỗi dài 4–8 bước.",
+      "scoring": "Chấm chuỗi chạm; ghi thời lượng thực hành và BPM tự khai báo.",
+      "pass": "Đúng 80% chuỗi và hoàn thành phần tập đàn.",
+      "feedback": "Cho xem chuỗi sai và luyện riêng bước chuyển khó.",
+      "assets": "Fretboard, đèn chỉ ngón, metronome.",
+      "notes": "Không ép tăng BPM; tốc độ chỉ tăng khi động tác thoải mái và sạch."
+    },
+    {
+      "id": "GM13",
+      "name": "P-I-M-A gọi tên ngón",
+      "engine": "Tap Match",
+      "modules": [
+        "Fingerstyle"
+      ],
+      "goal": "Nhớ ký hiệu ngón cái, trỏ, giữa, áp út trong Fingerstyle.",
+      "how": "Hiện hình bàn tay phải hoặc câu hỏi P/I/M/A. Người chơi ghép chữ với ngón: P-thumb, I-index, M-middle, A-ring. Vòng tiếp theo cho tình huống “gảy dây 1 trong mẫu cơ bản bằng ngón nào?”.",
+      "round": "8–10 câu; tăng từ ghép tên sang áp dụng mẫu cơ bản.",
+      "scoring": "10 điểm/câu đúng.",
+      "pass": "Đúng ít nhất 8/10.",
+      "feedback": "Tô sáng ngón đúng trên hình bàn tay; nêu đây là quy ước mẫu cơ bản, có biến thể theo bài.",
+      "assets": "Minh họa bàn tay phải rõ từng ngón; nhãn P-I-M-A.",
+      "notes": "Dùng thống nhất ký hiệu P-I-M-A; không nhầm A với ngón út."
+    },
+    {
+      "id": "GM14",
+      "name": "Ghi nhớ mẫu Fingerstyle",
+      "engine": "Sequence Builder + Audio Preview",
+      "modules": [
+        "Fingerstyle"
+      ],
+      "goal": "Nhớ thứ tự ngón và dây trong mẫu Fingerstyle cơ bản.",
+      "how": "Ứng dụng phát mẫu chậm, ví dụ P-I-M-A hoặc P-M-I-A. Người chơi sắp xếp thẻ theo thứ tự, xem dây tương ứng và nghe lại. Sau đó tự thực hành trên đàn.",
+      "round": "3 mẫu tăng dần độ dài; mỗi mẫu có nút nghe chậm/đúng tốc độ.",
+      "scoring": "Chấm đúng thứ tự thẻ; lưu số lượt tự luyện.",
+      "pass": "Hoàn thành 2/3 mẫu và tự xác nhận phần thực hành.",
+      "feedback": "Highlight vị trí ngón và dây; phát lại riêng đoạn khó.",
+      "assets": "Audio demo tự thu, sơ đồ ngón, thẻ P-I-M-A.",
+      "notes": "Bản demo phải được người chơi có chuyên môn ghi âm, đóng gói local."
+    },
+    {
+      "id": "GM15",
+      "name": "Nghe và chọn nốt",
+      "engine": "Audio Listening Choice",
+      "modules": [
+        "Cảm âm",
+        "Nhạc lý"
+      ],
+      "goal": "Phân biệt nốt cao/thấp và nhận diện một số nốt mục tiêu.",
+      "how": "Phát một âm thanh guitar/piano ngắn từ file nội bộ. Người chơi chọn nốt hoặc chọn âm cao hơn/thấp hơn trong hai lựa chọn. Cấp đầu chỉ so sánh tương đối; cấp sau mới gọi tên nốt.",
+      "round": "8 câu; có nút nghe lại tối đa 2 lần/câu.",
+      "scoring": "10 điểm/câu đúng; nghe lại không trừ điểm ở cấp mới.",
+      "pass": "Đúng ít nhất 6/8 ở cấp đầu, 7/8 ở cấp sau.",
+      "feedback": "Phát lại mẫu và hiển thị cao độ tham chiếu; giải thích không nên đoán chỉ bằng âm lượng.",
+      "assets": "Bộ audio nốt đơn đã chuẩn hóa, lưu trong APK.",
+      "notes": "Không thay audio bằng beep không chuẩn; cần xác định rõ nhạc cụ, cao độ và âm lượng."
+    },
+    {
+      "id": "GM16",
+      "name": "Trưởng hay thứ?",
+      "engine": "Audio A/B Comparison",
+      "modules": [
+        "Cảm âm",
+        "Nhạc lý"
+      ],
+      "goal": "Nhận biết cảm giác âm thanh hợp âm trưởng và thứ qua nghe.",
+      "how": "Phát hai hợp âm mẫu hoặc một hợp âm được hỏi. Người chơi chọn “Trưởng” hoặc “Thứ”, sau đó nghe lại hai mẫu đặt cạnh nhau để so sánh.",
+      "round": "8 cặp/lượt; bắt đầu ở cùng cao độ gốc và âm lượng gần nhau.",
+      "scoring": "10 điểm/câu đúng.",
+      "pass": "Đúng ít nhất 6/8; cấp nâng cao 7/8.",
+      "feedback": "Nêu đáp án và cho nghe A/B lại; không mô tả cảm xúc là quy tắc tuyệt đối.",
+      "assets": "Audio hợp âm trưởng/thứ được thu hoặc render nhất quán và lưu local.",
+      "notes": "Bộ audio phải được kiểm chứng nhạc lý; tránh thay đổi nhiều yếu tố cùng lúc."
+    },
+    {
+      "id": "GM17",
+      "name": "Nghe đoán vòng hợp âm",
+      "engine": "Audio Progression Match",
+      "modules": [
+        "Cảm âm",
+        "Đệm hát",
+        "Nhạc lý"
+      ],
+      "goal": "Nhận diện vòng hợp âm quen thuộc trong ví dụ âm thanh ngắn.",
+      "how": "Phát một vòng hợp âm 3–4 hợp âm. Người chơi chọn chuỗi đúng trong 3 đáp án, ví dụ C-G-Am-F. Cấp đầu có thể hiển thị 3 lựa chọn; cấp sau ẩn gợi ý.",
+      "round": "5 vòng; mỗi vòng có nút nghe lại.",
+      "scoring": "20 điểm/vòng đúng; lưu số lần nghe lại như thông tin hỗ trợ, không trừ điểm.",
+      "pass": "Đúng 4/5 vòng ở cấp cơ bản.",
+      "feedback": "Hiển thị chord timeline, phát từng hợp âm và phát cả vòng.",
+      "assets": "Audio progression tự tạo/được phép sử dụng, chord data chuẩn.",
+      "notes": "Không dùng bản thu bài hát thương mại khi chưa có quyền; dùng progression mẫu do dự án tự tạo."
+    },
+    {
+      "id": "GM18",
+      "name": "Xếp bài hát",
+      "engine": "Drag-and-Drop Sequence",
+      "modules": [
+        "Đệm hát",
+        "Fingerstyle"
+      ],
+      "goal": "Hiểu thứ tự phần bài hát và ghép hợp âm/điệu đệm phù hợp.",
+      "how": "Người chơi kéo các thẻ Intro, Verse, Chorus, Bridge, Outro vào thứ tự đúng theo kịch bản mẫu; sau đó ghép vòng hợp âm vào từng phần. Dùng bài mẫu tự biên soạn hoặc bài thuộc phạm vi được phép.",
+      "round": "1 bài mẫu/lượt; 4–6 thẻ cấu trúc và 2–4 vòng hợp âm.",
+      "scoring": "Chấm thứ tự phần và lựa chọn hợp âm theo đáp án của bài mẫu.",
+      "pass": "Đạt 80% các thẻ đúng và hoàn thành một lượt tự luyện.",
+      "feedback": "Phát sơ đồ bài hát sau khi hoàn thành; giải thích phần nào lặp lại và nơi đổi hợp âm.",
+      "assets": "Song structure cards, chord progression cards, nội dung bài mẫu có quyền sử dụng.",
+      "notes": "Không nhúng lời bài hát có bản quyền nếu chưa có quyền; ưu tiên bài tự biên soạn/public domain."
+    }
+  ],
+  "stage_map": {
+    "Đệm hát": [
+      {
+        "stage": 1,
+        "name": "Làm quen cây đàn",
+        "lessons": "Tư thế ngồi; cách cầm đàn; nhận biết 6 dây",
+        "interstitial_games": "GM01, GM02",
+        "checkpoint": "Checkpoint: xếp đúng 6 dây từ 6→1"
+      },
+      {
+        "stage": 2,
+        "name": "Làm chủ âm thanh",
+        "lessons": "Cách gảy từng dây; dây buông; lên dây tiêu chuẩn",
+        "interstitial_games": "GM02, GM15",
+        "checkpoint": "Checkpoint: gọi tên dây và nốt"
+      },
+      {
+        "stage": 3,
+        "name": "Bấm hợp âm đầu tiên",
+        "lessons": "Em, Am, C, G; ngón tay và dây buông",
+        "interstitial_games": "GM04, GM05, GM06",
+        "checkpoint": "Checkpoint: ghép sơ đồ và tìm lỗi"
+      },
+      {
+        "stage": 4,
+        "name": "Chuyển hợp âm mượt hơn",
+        "lessons": "Em–Am; C–G; G–D; ngón neo/ngón chung",
+        "interstitial_games": "GM07, GM06",
+        "checkpoint": "Checkpoint: chuỗi chuyển hợp âm tự luyện"
+      },
+      {
+        "stage": 5,
+        "name": "Giữ nhịp không khựng",
+        "lessons": "Phách mạnh/yếu; 4/4; 3/4; đếm nhịp",
+        "interstitial_games": "GM09, GM10",
+        "checkpoint": "Checkpoint: gõ đúng nhịp"
+      },
+      {
+        "stage": 6,
+        "name": "Học các điệu đệm",
+        "lessons": "Ballad; Pop; Slow Rock; Waltz; xuống/lên/nghỉ",
+        "interstitial_games": "GM08, GM10",
+        "checkpoint": "Checkpoint: xếp đúng mẫu điệu"
+      },
+      {
+        "stage": 7,
+        "name": "Vòng hợp âm và cấu trúc bài",
+        "lessons": "Vòng phổ biến; intro/verse/chorus; vị trí đổi hợp âm",
+        "interstitial_games": "GM17, GM18",
+        "checkpoint": "Checkpoint: ghép cấu trúc và vòng hợp âm"
+      },
+      {
+        "stage": 8,
+        "name": "Đệm hát hoàn chỉnh",
+        "lessons": "Ghép hợp âm + điệu; vào bài; giữ nhịp khi hát; kết bài",
+        "interstitial_games": "GM07, GM09, GM18",
+        "checkpoint": "Boss challenge: hoàn thành một bài mẫu"
+      }
+    ],
+    "Luyện ngón": [
+      {
+        "stage": 1,
+        "name": "Bản đồ cần đàn",
+        "lessons": "Số dây; số phím; dây buông; vị trí đầu cần",
+        "interstitial_games": "GM01, GM02, GM03",
+        "checkpoint": "Checkpoint: định vị dây/phím"
+      },
+      {
+        "stage": 2,
+        "name": "Tư thế và lực tay",
+        "lessons": "Đặt ngón; cổ tay; lực vừa đủ; tránh chạm dây cạnh",
+        "interstitial_games": "GM06, GM11",
+        "checkpoint": "Checkpoint: tìm và sửa lỗi tư thế"
+      },
+      {
+        "stage": 3,
+        "name": "Chuỗi 1-2-3-4",
+        "lessons": "Thứ tự ngón; một dây; nhiều dây; chậm và đều",
+        "interstitial_games": "GM11",
+        "checkpoint": "Checkpoint: nhớ và lặp chuỗi"
+      },
+      {
+        "stage": 4,
+        "name": "Độc lập ngón",
+        "lessons": "1-3-2-4; 1-4-2-3; chuyển vị trí",
+        "interstitial_games": "GM12",
+        "checkpoint": "Checkpoint: lặp chuỗi không nhìn mẫu"
+      },
+      {
+        "stage": 5,
+        "name": "Di chuyển trên cần đàn",
+        "lessons": "Đổi dây; đổi vị trí; giữ đầu ngón gần dây",
+        "interstitial_games": "GM03, GM12",
+        "checkpoint": "Checkpoint: săn nốt và di chuyển"
+      },
+      {
+        "stage": 6,
+        "name": "Tay phải cơ bản",
+        "lessons": "Alternate picking; ngón cái; gảy từng dây",
+        "interstitial_games": "GM09, GM11",
+        "checkpoint": "Checkpoint: chuỗi gảy theo nhịp"
+      },
+      {
+        "stage": 7,
+        "name": "Phối hợp hai tay",
+        "lessons": "Bấm và gảy đồng thời; đồng bộ chậm",
+        "interstitial_games": "GM11, GM12",
+        "checkpoint": "Checkpoint: hoàn thành mẫu phối hợp"
+      },
+      {
+        "stage": 8,
+        "name": "Tốc độ có kiểm soát",
+        "lessons": "Tăng BPM từng nấc; độ đều; nghỉ và thư giãn",
+        "interstitial_games": "GM09, GM12",
+        "checkpoint": "Boss challenge: bài tập theo BPM mục tiêu"
+      }
+    ],
+    "Fingerstyle": [
+      {
+        "stage": 1,
+        "name": "Làm quen P-I-M-A",
+        "lessons": "Tên ngón; vị trí tay phải; quy ước cơ bản",
+        "interstitial_games": "GM13",
+        "checkpoint": "Checkpoint: ghép ký hiệu và ngón"
+      },
+      {
+        "stage": 2,
+        "name": "Làm chủ ngón cái",
+        "lessons": "Gảy bass dây 6, 5, 4; giữ nhịp",
+        "interstitial_games": "GM14, GM09",
+        "checkpoint": "Checkpoint: mẫu bass đơn"
+      },
+      {
+        "stage": 3,
+        "name": "Ba ngón gảy giai điệu",
+        "lessons": "I-M-A; dây 3, 2, 1 trong mẫu cơ bản",
+        "interstitial_games": "GM13, GM14",
+        "checkpoint": "Checkpoint: ghép ngón và dây"
+      },
+      {
+        "stage": 4,
+        "name": "Mẫu ngón đầu tiên",
+        "lessons": "P-I-M-A; mẫu lặp chậm; đổi dây",
+        "interstitial_games": "GM14",
+        "checkpoint": "Checkpoint: nhớ mẫu và thực hành"
+      },
+      {
+        "stage": 5,
+        "name": "Bass luân phiên",
+        "lessons": "Bass dây 6/4 hoặc 5/4; phối hợp ngón treble",
+        "interstitial_games": "GM14, GM09",
+        "checkpoint": "Checkpoint: giữ bass đều"
+      },
+      {
+        "stage": 6,
+        "name": "Bass và giai điệu",
+        "lessons": "Tách bass/giai điệu; nhấn melody; chuyển mẫu",
+        "interstitial_games": "GM14, GM10",
+        "checkpoint": "Checkpoint: chọn đúng chuỗi ngón"
+      },
+      {
+        "stage": 7,
+        "name": "Nhịp và sắc thái",
+        "lessons": "Tempo; nhấn nhẹ; kiểm soát âm lượng; độ ngân",
+        "interstitial_games": "GM09, GM10",
+        "checkpoint": "Checkpoint: tái tạo mẫu nhịp"
+      },
+      {
+        "stage": 8,
+        "name": "Chơi một đoạn hoàn chỉnh",
+        "lessons": "Ghép intro/đoạn ngắn; lặp; kết thúc sạch",
+        "interstitial_games": "GM14, GM18",
+        "checkpoint": "Boss challenge: trình bày đoạn Fingerstyle"
+      }
+    ],
+    "Nhạc lý": [
+      {
+        "stage": 1,
+        "name": "Nốt nhạc trên guitar",
+        "lessons": "Tên nốt; 6 dây tiêu chuẩn; cung/nửa cung",
+        "interstitial_games": "GM01, GM03",
+        "checkpoint": "Checkpoint: săn nốt trên cần đàn"
+      },
+      {
+        "stage": 2,
+        "name": "Nhịp và trường độ",
+        "lessons": "Phách; nốt đen/trắng/móc đơn; dấu nghỉ",
+        "interstitial_games": "GM09, GM10",
+        "checkpoint": "Checkpoint: nhận biết và gõ mẫu"
+      },
+      {
+        "stage": 3,
+        "name": "Quãng cơ bản",
+        "lessons": "Khoảng cách nốt; nghe và nhìn quãng",
+        "interstitial_games": "GM15",
+        "checkpoint": "Checkpoint: chọn quãng đúng"
+      },
+      {
+        "stage": 4,
+        "name": "Cấu tạo hợp âm",
+        "lessons": "Hợp âm trưởng/thứ; root/third/fifth; sơ đồ",
+        "interstitial_games": "GM04, GM05, GM16",
+        "checkpoint": "Checkpoint: ghép tên và cấu tạo"
+      },
+      {
+        "stage": 5,
+        "name": "Gam và giọng",
+        "lessons": "Gam trưởng/thứ; dấu hóa; giọng phổ biến",
+        "interstitial_games": "GM03, GM15",
+        "checkpoint": "Checkpoint: nhận diện nốt trong gam"
+      },
+      {
+        "stage": 6,
+        "name": "Chức năng hợp âm",
+        "lessons": "Vai trò I-IV-V-vi ở mức nhập môn",
+        "interstitial_games": "GM17",
+        "checkpoint": "Checkpoint: phân loại chức năng"
+      },
+      {
+        "stage": 7,
+        "name": "Vòng hòa âm thực tế",
+        "lessons": "Vòng phổ biến; cấu trúc vòng 4 hợp âm",
+        "interstitial_games": "GM17, GM18",
+        "checkpoint": "Checkpoint: ghép vòng hợp âm"
+      },
+      {
+        "stage": 8,
+        "name": "Capo và chuyển tone",
+        "lessons": "Dịch tone; hình dạng hợp âm; capo",
+        "interstitial_games": "GM05, GM18",
+        "checkpoint": "Boss challenge: chuyển tone bài mẫu"
+      }
+    ],
+    "Cảm âm": [
+      {
+        "stage": 1,
+        "name": "Nghe cao và thấp",
+        "lessons": "So sánh hai âm; nghe lặp; phân biệt cao/thấp",
+        "interstitial_games": "GM15",
+        "checkpoint": "Checkpoint: chọn âm cao hơn"
+      },
+      {
+        "stage": 2,
+        "name": "Nhớ âm thanh",
+        "lessons": "Nhận diện lại âm vừa nghe; âm đơn",
+        "interstitial_games": "GM15",
+        "checkpoint": "Checkpoint: nghe và chọn lại"
+      },
+      {
+        "stage": 3,
+        "name": "Khoảng cách giai điệu",
+        "lessons": "Quãng gần/xa; đi lên/đi xuống",
+        "interstitial_games": "GM15",
+        "checkpoint": "Checkpoint: nhận diện hướng giai điệu"
+      },
+      {
+        "stage": 4,
+        "name": "Nhớ giai điệu ngắn",
+        "lessons": "Chuỗi 3–5 nốt; nghe và lặp bằng lựa chọn",
+        "interstitial_games": "GM15",
+        "checkpoint": "Checkpoint: tái tạo chuỗi"
+      },
+      {
+        "stage": 5,
+        "name": "Trưởng hay thứ",
+        "lessons": "So sánh màu sắc trưởng/thứ bằng audio mẫu",
+        "interstitial_games": "GM16",
+        "checkpoint": "Checkpoint: phân biệt major/minor"
+      },
+      {
+        "stage": 6,
+        "name": "Nghe nhận biết hợp âm",
+        "lessons": "Hợp âm trưởng/thứ; nghe root và chất hợp âm",
+        "interstitial_games": "GM16",
+        "checkpoint": "Checkpoint: chọn hợp âm đúng"
+      },
+      {
+        "stage": 7,
+        "name": "Nghe vòng hợp âm",
+        "lessons": "Vòng 3–4 hợp âm; nhận biết mẫu quen thuộc",
+        "interstitial_games": "GM17",
+        "checkpoint": "Checkpoint: ghép vòng đã nghe"
+      },
+      {
+        "stage": 8,
+        "name": "Nghe và áp dụng vào bài",
+        "lessons": "Nghe đoạn mẫu; đoán hòa âm; kiểm tra bằng đàn",
+        "interstitial_games": "GM17, GM18",
+        "checkpoint": "Boss challenge: nhận diện vòng mẫu"
+      }
+    ]
+  }
+}
